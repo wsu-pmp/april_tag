@@ -169,7 +169,8 @@ Hold a printed **36h11** AprilTag → you should see:
 
 ### SAMPLE of detecting tag id 4 : 
 
-<img width="637" height="1255" alt="image" src="https://github.com/user-attachments/assets/9a027833-3085-4730-92dd-fa0720b9e9ff" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/b891ff3f-0da1-45fd-974f-c69c6904df9f" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1b1e82d1-38a9-4e49-9a11-1594e8ab1e65" />
 
 ---
 
